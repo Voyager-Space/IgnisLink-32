@@ -73,7 +73,6 @@
 * **NEVER** connect the igniter clips to the rocket while the electronics are powered on.
 * **ALWAYS** follow [NAR (National Association of Rocketry) Safety Codes](https://www.nar.org/safety-information-model-rocketry-safety-code/).
 * **TEST** your system in "Simulation Mode" (using an LED instead of an igniter) before every field day.
-![Test Case](Testing Phase.jpeg)
 
 ---
 
