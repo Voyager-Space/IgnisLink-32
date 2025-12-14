@@ -50,7 +50,7 @@
 ### 1. Uploading the Code
 1.  Install the [Arduino IDE](https://www.arduino.cc/en/software).
 2.  Install the **ESP32 Board Manager** (`Tools` > `Board` > `Boards Manager`).
-3.  Open `Rocket_Launch_Controller_Final.ino`.
+3.  Open `Ignition-System-code.ino`.
 4.  Select your board (e.g., **DOIT ESP32 DEVKIT V1**) and correct Port.
 5.  Click **Upload**.
 
