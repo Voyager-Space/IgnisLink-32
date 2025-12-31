@@ -1,4 +1,4 @@
-# 🚀 IgnisLink-32: Wireless Rocket Launch Controller
+# IgnisLink-32: Wireless Rocket Launch Controller
 
 **IgnisLink-32** is a modern, safety-critical Ground Support Equipment (GSE) system for model rocketry. It replaces traditional analog launch cables with a secure, high-speed Wi-Fi link, allowing operators to launch rockets using a smartphone or laptop from a safe distance.
 
@@ -6,16 +6,16 @@
 
 ---
 
-## ✨ Features
+## Features
 
-* **📡 Wireless Access Point:** Creates its own Wi-Fi network (`RocketCommand`). No router or internet required—works in the middle of a desert.
-* **📱 Headless Interface:** Hosting a dedicated HTML5 Web App directly on the chip. Works on Android, iOS, Windows, and Linux without installing apps.
-* **🛡️ Defense-in-Depth Safety:**
+* **Wireless Access Point:** Creates its own Wi-Fi network (`RocketCommand`). No router or internet required—works in the middle of a desert.
+* **Headless Interface:** Hosting a dedicated HTML5 Web App directly on the chip. Works on Android, iOS, Windows, and Linux without installing apps.
+* **Defense-in-Depth Safety:**
     * **Physical:** Master Arming Switch requirement.
     * **Software:** Mandatory 5-second audible countdown.
     * **Watchdog:** 3.0-second auto-cutoff to prevent battery shorts and relay fusion.
 * **⚡ Galvanic Isolation:** Uses a Relay Module to physically isolate the 5V logic brain from the 12V high-current firing muscle.
-* **🧪 Simulation Mode:** Safe testing protocols using LED indicators before live fire.
+* **Simulation Mode:** Safe testing protocols using LED indicators before live fire.
 
 ---
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 🔌 Pin Configuration
+## Pin Configuration
 
 | Component | ESP32 Pin | Function |
 | :--- | :---: | :--- |
@@ -45,7 +45,7 @@
 
 ---
 
-## 🚀 Installation & Usage
+## Installation & Usage
 
 ### 1. Uploading the Code
 1.  Install the [Arduino IDE](https://www.arduino.cc/en/software).
@@ -65,7 +65,7 @@
 
 ---
 
-## ⚠️ Safety Warnings
+## Safety Warnings
 
 > **CRITICAL SAFETY INFORMATION**
 
@@ -76,7 +76,7 @@
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome!
 
