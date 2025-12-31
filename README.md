@@ -14,12 +14,12 @@
     * **Physical:** Master Arming Switch requirement.
     * **Software:** Mandatory 5-second audible countdown.
     * **Watchdog:** 3.0-second auto-cutoff to prevent battery shorts and relay fusion.
-* **⚡ Galvanic Isolation:** Uses a Relay Module to physically isolate the 5V logic brain from the 12V high-current firing muscle.
+* **Galvanic Isolation:** Uses a Relay Module to physically isolate the 5V logic brain from the 12V high-current firing muscle.
 * **Simulation Mode:** Safe testing protocols using LED indicators before live fire.
 
 ---
 
-## 🛠️ Hardware Required
+## Hardware Required
 
 | Component | Quantity | Description |
 | :--- | :---: | :--- |
